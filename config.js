@@ -28,8 +28,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '62831331622952'
-global.author = 'Ragil bot 🏳️‍🌈'
+global.packname = '62831331622950'
+global.author = 'ᑲᥲᑲу ᑲ᥆𝗍 (づ｡◕‿‿◕｡)づ'
 
 global.multiplier = 69 // The higher, The harder levelup
 
